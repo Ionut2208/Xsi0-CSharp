@@ -1,0 +1,12 @@
+C:\Users\Ionut B\Desktop\Xsi0\bin\Debug\Xsi0.exe.config
+C:\Users\Ionut B\Desktop\Xsi0\bin\Debug\Xsi0.exe
+C:\Users\Ionut B\Desktop\Xsi0\bin\Debug\Xsi0.pdb
+C:\Users\Ionut B\Desktop\Xsi0\obj\Debug\Xsi0.csproj.AssemblyReference.cache
+C:\Users\Ionut B\Desktop\Xsi0\obj\Debug\Xsi0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ionut B\Desktop\Xsi0\obj\Debug\Xsi0.FormIntro.resources
+C:\Users\Ionut B\Desktop\Xsi0\obj\Debug\Xsi0.Properties.Resources.resources
+C:\Users\Ionut B\Desktop\Xsi0\obj\Debug\Xsi0.csproj.GenerateResource.cache
+C:\Users\Ionut B\Desktop\Xsi0\obj\Debug\Xsi0.csproj.CoreCompileInputs.cache
+C:\Users\Ionut B\Desktop\Xsi0\obj\Debug\Xsi0.exe
+C:\Users\Ionut B\Desktop\Xsi0\obj\Debug\Xsi0.pdb
+C:\Users\Ionut B\Desktop\Xsi0\obj\Debug\Xsi0.FormJoc.resources
